@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "XE4/DmNSI3BcmWN43Ho4auxbwKF4ZvOO7a6/bI2B9gcRQfLE07nfyRJFemARWcgquZpoVw7QnKc8zmFp+mscqA==",
+  "dgSpecHash": "I5iHDI4l+d9x6ej3SYICgQTk/NIozxqakmdubJbFko2KsDIL5Z1RlpBz3cwhLeGVsAHvmDzCoZ/Zyu0hI0etAw==",
   "success": true,
-  "projectFilePath": "/Users/adamfraga/Projects/LAB/csharp/DataversePlugins/HelloPlugins.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/adamfraga/Projects/LAB/csharp/DataversePlugins/HelloPlugin.csproj",
+  "expectedPackageFiles": [
+    "/Users/adamfraga/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/Users/adamfraga/.nuget/packages/microsoft.netframework.referenceassemblies.net462/1.0.3/microsoft.netframework.referenceassemblies.net462.1.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

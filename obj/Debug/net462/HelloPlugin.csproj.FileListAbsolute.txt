@@ -1,0 +1,4 @@
+/Users/adamfraga/Projects/LAB/csharp/DataversePlugins/obj/Debug/net462/HelloPlugin.csproj.AssemblyReference.cache
+/Users/adamfraga/Projects/LAB/csharp/DataversePlugins/obj/Debug/net462/HelloPlugin.AssemblyInfoInputs.cache
+/Users/adamfraga/Projects/LAB/csharp/DataversePlugins/obj/Debug/net462/HelloPlugin.AssemblyInfo.cs
+/Users/adamfraga/Projects/LAB/csharp/DataversePlugins/obj/Debug/net462/HelloPlugin.csproj.CoreCompileInputs.cache

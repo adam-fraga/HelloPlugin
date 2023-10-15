@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net462</TargetFramework>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>/Users/adamfraga/Projects/LAB/csharp/DataversePlugins/keypair.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Xrm.Sdk">
+      <HintPath>
+        /Users/adamfraga/.nuget/packages/microsoft.crmsdk.coreassemblies/9.0.2.50/lib/net462/Microsoft.Xrm.Sdk.dll
+      </HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
