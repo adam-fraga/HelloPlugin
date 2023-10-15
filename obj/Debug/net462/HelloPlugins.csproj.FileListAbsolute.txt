@@ -1,0 +1,8 @@
+/Users/adamfraga/Projects/LAB/csharp/DataversePlugins/bin/Debug/net462/HelloPlugins.dll
+/Users/adamfraga/Projects/LAB/csharp/DataversePlugins/bin/Debug/net462/HelloPlugins.pdb
+/Users/adamfraga/Projects/LAB/csharp/DataversePlugins/obj/Debug/net462/HelloPlugins.csproj.AssemblyReference.cache
+/Users/adamfraga/Projects/LAB/csharp/DataversePlugins/obj/Debug/net462/HelloPlugins.AssemblyInfoInputs.cache
+/Users/adamfraga/Projects/LAB/csharp/DataversePlugins/obj/Debug/net462/HelloPlugins.AssemblyInfo.cs
+/Users/adamfraga/Projects/LAB/csharp/DataversePlugins/obj/Debug/net462/HelloPlugins.csproj.CoreCompileInputs.cache
+/Users/adamfraga/Projects/LAB/csharp/DataversePlugins/obj/Debug/net462/HelloPlugins.dll
+/Users/adamfraga/Projects/LAB/csharp/DataversePlugins/obj/Debug/net462/HelloPlugins.pdb

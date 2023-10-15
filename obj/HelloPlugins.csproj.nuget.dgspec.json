@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/adamfraga/Projects/LAB/csharp/DataversePlugins/HelloPlugins.csproj": {}
+  },
+  "projects": {
+    "/Users/adamfraga/Projects/LAB/csharp/DataversePlugins/HelloPlugins.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/adamfraga/Projects/LAB/csharp/DataversePlugins/HelloPlugins.csproj",
+        "projectName": "HelloPlugins",
+        "projectPath": "/Users/adamfraga/Projects/LAB/csharp/DataversePlugins/HelloPlugins.csproj",
+        "packagesPath": "/Users/adamfraga/.nuget/packages/",
+        "outputPath": "/Users/adamfraga/Projects/LAB/csharp/DataversePlugins/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/adamfraga/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "runtimeIdentifierGraphPath": "/Library/Frameworks/Mono.framework/Versions/6.12.0/lib/mono/msbuild/Current/bin/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
